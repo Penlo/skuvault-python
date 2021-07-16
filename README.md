@@ -4,7 +4,7 @@ More documentation for the SkuVault API can be found at https://dev.skuvault.com
 
 ## **Installation**
 ```
-pip install skuvault-python
+pip install skuvault
 ```
 
 ## **Example Usage**
