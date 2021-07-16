@@ -11,9 +11,9 @@ setup(
     author='Nathan Head',
     author_email="headn90@gmail.com",
     license='MIT',
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/Penlo/skuvault-python",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Bug Tracker": "https://github.com/Penlo/skuvault-python/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
