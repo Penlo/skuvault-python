@@ -7,7 +7,7 @@ Authored by: Nathan Head
 import platform
 import logging
 
-__version__ = '1.1.0'
+__version__ = '1.1.2'
 Version = __version__  # for backward compatibility
 
 try:

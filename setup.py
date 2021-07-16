@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name='skuvault',
     packages=find_packages(include=['skuvault', 'skuvault.*']),
-    version='1.1.0',
+    version='1.1.2',
     description='A Python library for the SkuVault API',
     author='Nathan Head',
     author_email="headn90@gmail.com",
